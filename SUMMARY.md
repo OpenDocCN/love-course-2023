@@ -17,3 +17,4 @@
 +   [小鹿](docs/xiaolu/README.md)
 +   [真爱之门](docs/zhenaizhimen/README.md)
 +   [麦子](docs/maizi/README.md)
++   [斌哥](docs/binge/README.md)
