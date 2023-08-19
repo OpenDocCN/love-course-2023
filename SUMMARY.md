@@ -21,4 +21,4 @@
 +   [阿七](docs/aqi/README.md)
 +   [令狐](docs/linghu/README.md)
 +   [许诺](docs/xunuo/README.md)
-+   [其它](docs/etc/README.md)
++   [魏子哥](docs/weizige/README.md)
