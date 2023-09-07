@@ -59,3 +59,6 @@
 +   [渣男学院](docs/zhanan/README.md)
 +   [龙宇](docs/longyu/README.md)
 +   [情商成长](docs/qingshangchengzhang/README.md)
++   [苏哥](docs/suge/README.md)
++   [得意苑](docs/deyiyuan/README.md)
++   [笨小子](docs/benxiaozi/README.md)
