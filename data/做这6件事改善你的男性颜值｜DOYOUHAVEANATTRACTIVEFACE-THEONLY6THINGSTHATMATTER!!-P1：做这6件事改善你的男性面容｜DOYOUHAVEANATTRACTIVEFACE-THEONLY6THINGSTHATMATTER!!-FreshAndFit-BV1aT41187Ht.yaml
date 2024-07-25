@@ -7,6 +7,7 @@
     -   要实施这些少数几项，作者建议首先注重减脂，然后通过增肌再进行削减。此外，注意舌头姿势，尽可能从鼻子呼吸，并避免强行呼吸。
 
     -   除了心态和自我提升，作者认为低体脂、舌头姿势、头部姿势、颈部大小、面部锻炼和胡须等因素对男性颜值改善起到重要作用。'
+  qas: []
   questions: '-   Jeffrey是如何影响自卑的年轻人的？
 
     -   作者是如何改变自己的心态和开始锻炼的？
@@ -56,6 +57,17 @@
     -   头部姿势受到技术使用的影响，如手机使用。
 
     -   想要改善头部姿势，需要减少对技术的过度依赖。'
+  qas:
+  - 问题1：文本中提到Adonis有哪些突出的特征？
+  - 回答1：Adonis有一颗战士般的头颅，尖锐的下巴和猎人般的眼睛。
+  - 问题2：根据文本，哪些因素对面部吸引力影响最大？
+  - 回答2：低体脂、舌头姿势、头部姿势、颈部大小、面部运动以及胡须。
+  - 问题3：在文本中，作者对无法改变的事物持何种态度？
+  - 回答3：作者认为不值得讨论那些不能改变的事物，认为这是浪费时间。
+  - 问题4：根据文本，低体脂的理想目标是多少？
+  - 回答4：低体脂的理想目标是大约10到12%。
+  - 问题5：如何在低体脂的情况下看起来更好？
+  - 回答5：在低体脂率下，为了看起来更好，想要增重，同时保持瘦身状态，首先要增肌，然后再切割脂肪。
   questions: ''
   summary: '-   Adonis的颅骨是一个战士，看起来非常出色，他看起来很惊人，下巴线条如同宙斯的长矛一样锋利，猎人般的眼睛让黑柱们自豪。面部吸引力只有六个重要因素：低体脂、舌头姿势、头部姿势、颈部大小、面部锻炼和胡须。首先是低体脂，这是显而易见的常识，但有些人仍然体脂过高。理想的体脂率目标应该在10%到12%左右，这时你的腹肌完全可见，甚至可能在腹部和V线周围有一些静脉，下巴线条明显，没有下垂的皮肤。要想看起来更好，体脂率要低，你希望体重尽可能高，同时保持苗条，方法是先增肌，然后再减脂。'
   text: Adonis has a warrior skull，What a fine specimen indeed，He looks phenomenal。with
@@ -86,6 +98,18 @@
     -   通过鼻子呼吸可以改善外貌，避免口呼吸导致的各种问题。口呼吸可能导致嘴巴突出、脸部肌肉松弛、牙齿排列不良等问题。通过鼻子呼吸有助于保持正确的舌头和头部姿势，减少面部肌肉的松弛。
 
     -   舌头姿势影响外貌的重要原因在于它对面部骨骼和姿势的作用。正确的舌头姿势可以帮助保持面部的紧致感，并有助于塑造更好的脸部轮廓。错误的舌头姿势可能导致面部松弛、下巴后缩等问题。'
+  qas:
+  - 问题1：What physical changes did the speaker notice after gaining muscle?
+  - 回答1：You can see a big difference in my jawline.
+  - 问题2：According to the speaker, what is crucial for achieving a better appearance
+    when lean?
+  - 回答2：Increasing your body weight and then cutting.
+  - 问题3：What does the speaker emphasize about tongue posture?
+  - 回答3：Tongue posture is very important and should be mindful of 24/7.
+  - 问题4：What advice does the speaker give regarding breathing habits?
+  - 回答4：Breathe from your nose more, even if your nose is stuffy.
+  - 问题5：Why does the speaker argue against forcefully breathing through the nose?
+  - 回答5：Forceful breathing through the nose can worsen nasal blockage.
   questions: '-   通过增加体重并进行削减，可以改善外貌，特别是下颌线条的作用是什么？
 
     -   为什么增加体重并保持瘦身状态可以改善外貌？
@@ -154,6 +178,21 @@
     in head posture and facial aesthetics. Regular neck strengthening exercises, such
     as neck curls performed with weights, can also help increase neck size, which
     is an important aspect of facial attractiveness and perceived masculinity.'
+  qas:
+  - 问题1：Why is it suggested to breathe through your nose?
+  - 回答1：It's suggested because breathing through your nose helps open it up more and
+    promotes correct tongue posture.
+  - 问题2：What happens when you breathe through your nose?
+  - 回答2：You assume the correct tongue posture where your mouth is closed and your
+    tongue presses against the top of your mouth.
+  - 问题3：What are the benefits of practicing nose breathing?
+  - 回答3：It's safer and healthier, and it helps in reshaping the skull over time.
+  - 问题4：Why is head posture emphasized in the text?
+  - 回答4：Head posture is crucial for facial attractiveness and is often neglected due
+    to modern technology habits.
+  - 问题5：What examples illustrate poor head posture according to the text?
+  - 回答5：Using phones with the neck bent down extensively, which is described as common
+    and problematic.
   questions: '-   How does proper breathing through the nose contribute to improved
     tongue posture and overall facial structure?
 
@@ -203,6 +242,21 @@
     -   要增加颈部大小，可以进行颈部肌肉训练，其中最简单有效的方式是进行颈部卷曲锻炼，即躺在凳子上，将小重物放在额头上，然后像做卷曲动作一样收缩颈部肌肉。
 
     -   保持自信坚定的姿势对个人形象非常重要，因为正确的姿势会给人一种自信和力量的感觉，而这种感觉会影响他人对你的印象和态度。'
+  qas:
+  - 问题1：What is a simple way to improve head posture according to the text?
+  - 回答1：Giving yourself a double chin as a stretch can improve head posture.
+  - 问题2：Why is improving head posture linked to attractiveness?
+  - 回答2：Improving head posture is linked to attractiveness because it contributes
+    to a confident and strong posture.
+  - 问题3：What role does neck size play in perception, according to the text?
+  - 回答3：Neck size is perceived as an indicator of masculinity and strength; a thicker
+    neck can garner more respect.
+  - 问题4：How can one increase their neck size, as mentioned in the text?
+  - 回答4：One can increase their neck size by performing neck curls with a small weight
+    on the forehead.
+  - 问题5：Why does the text emphasize training the neck along with the rest of the body?
+  - 回答5：Training the neck is emphasized because neck size is visible and can influence
+    perceptions of physical strength and masculinity.
   questions: '-   如何通过双下巴伸展改善头部姿势？
 
     -   颈部肌肉和大小如何影响他人对个人形象的看法？
@@ -241,6 +295,19 @@
     -   在进行面部肌肉锻炼时，可以尝试不同的面部运动和练习，以帮助加强面部肌肉。
 
     -   除了咀嚼硬食物、进行面部运动和留胡须外，其他方法包括改善头部姿势、锻炼颈部肌肉和使用面部护理产品来提高面部吸引力。'
+  qas:
+  - 问题1：What is recommended to improve facial attractiveness?
+  - 回答1：Chewing harder foods and performing facial exercises.
+  - 问题2：Why does the speaker recommend chewing harder foods?
+  - 回答2：To train the muscles around the jawline, which are affected by the softness
+    of modern diets.
+  - 问题3：What is mentioned as an alternative method to improve facial attractiveness?
+  - 回答3：Growing and shaping a beard.
+  - 问题4：According to the speaker, what affects the ability to grow a beard?
+  - 回答4：The assertion that becoming more masculine and responsible can influence beard
+    growth.
+  - 问题5：How does the speaker advise shaping a beard?
+  - 回答5：By keeping the moustache and chin longer than the cheeks and side lines.
   questions: '-   如何咀嚼硬食物有助于提高面部吸引力？
 
     -   面部运动如何增强面部肌肉？
@@ -287,6 +354,17 @@
     -   The benefits of properly shaping the underside of the beard include a more
     defined jawline, a neater and tidier appearance, and an overall more polished
     and well-groomed look.'
+  qas:
+  - 问题1：What is an important aspect of making your beard look good?
+  - 回答1：Shaping the underside of it.
+  - 问题2：Where should you trim the beard to achieve a good look?
+  - 回答2：To your jawline around the cheek and have it come down.
+  - 问题3：How much should the beard come down near the chin?
+  - 回答3：About an inch.
+  - 问题4：When should you focus on shaping the beard, according to the text?
+  - 回答4：Especially when you don't feel like it.
+  - 问题5：What specific area of the face is mentioned for trimming up the beard?
+  - 回答5：Around the cheek.
   questions: '-   Why is shaping the underside of the beard crucial for a good look?
 
     -   How should the beard be trimmed to the jawline and brought down?
