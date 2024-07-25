@@ -16,6 +16,17 @@
 
     -   The summary suggests seeking assistance from a teacher regarding emotional
     issues if the person has any emotional problems and needs help.'
+  qas:
+  - 问题1：男生主动提出分手是否意味着他心狠？
+  - 回答1：不是的，反而可能表示他把你放在心上。
+  - 问题2：男生如果真心不爱一个人，会怎么做？
+  - 回答2：不会主动提出分手，而是会漠视对方的感受。
+  - 问题3：提出分手的男生可能有哪些心理？
+  - 回答3：可能是觉得关系已经没有必要继续，或者没有意识到感情的重要性。
+  - 问题4：男生如何看待对方的感受？
+  - 回答4：有些可能在意，有些可能漠视，具体情况因人而异。
+  - 问题5：有哪些情况下男生会主动提出分手？
+  - 回答5：可能是感觉关系不合适或者自身情感状态有变化。
   questions: '-   What might be the underlying reasons for a guy initiating a breakup,
     according to the summary?
 
