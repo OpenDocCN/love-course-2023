@@ -16,6 +16,17 @@
     -   The author conveys the notion that even the most indifferent individuals may
     reconsider after reading this passage by highlighting the deep emotions and love
     that still exist despite the circumstances.'
+  qas:
+  - 问题1：文本的主题是什么？
+  - 回答1：再绝情的人看了这段话也想回头。
+  - 问题2：文本中提到的主要情感是什么？
+  - 回答2：爱与不舍。
+  - 问题3：作者在文中表达了什么样的情感态度？
+  - 回答3：执着、希望和不舍。
+  - 问题4：文本中建议的行动是什么？
+  - 回答4：给对方一点考虑的空间和时间，相信他会主动找你。
+  - 问题5：作者对感情的看法是怎样的？
+  - 回答5：认为只要一方坚持，感情不会轻易结束，希望对方能回头。
   questions: '-   What signs suggest that the ex-partner has not completely moved
     on emotionally?
 
