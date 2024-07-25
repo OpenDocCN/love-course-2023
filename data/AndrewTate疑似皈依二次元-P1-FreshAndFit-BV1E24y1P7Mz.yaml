@@ -9,6 +9,17 @@
     -   片段中没有提到人们对他痴迷二次元的行为作何反应。
 
     -   片段中没有给出导致这一事件对他的社交媒体影响的任何信息。'
+  qas:
+  - 问题1：Andrew Tate为什么最近的推特内容引起了关注？
+  - 回答1：因为他开始表现出对二次元女孩的痴迷。
+  - 问题2：Andrew Tate以前通常在早晨发推文时做什么？
+  - 回答2：他经常会发布一些和一群性感女孩一起抽雪茄等内容相关的照片。
+  - 问题3：为什么有人对他的早安贴文内容感到意外？
+  - 回答3：因为他现在与二次元女孩一起，而不是传统的性感女孩。
+  - 问题4：Andrew Tate为什么被描述为“bald Jesus”？
+  - 回答4：这是对他外表的一种戏谑称呼，将他的光头与耶稣的形象联系在一起。
+  - 问题5：Andrew Tate在社交媒体上的活跃程度如何？
+  - 回答5：尽管他不如以前那么受关注，但在Twitter上仍然非常活跃。
   questions: '-   Andrew Tate是否真的皈依二次元？
 
     -   他的推特内容为何引起人们的担忧？
@@ -48,6 +59,18 @@
     -   男子说自己太黑不一定表明他有种族歧视，也可能是对于他身为非洲裔的自嘲。
 
     -   男子发表的无意义的胡言乱语可能与他的观点无关，可能是他在监狱里受到了某种创伤或者是创伤后遗症。'
+  qas:
+  - 问题1：What is the person posting videos of?
+  - 回答1：He's posting videos of him dancing with good mornings.
+  - 问题2：Who is he dancing with in some of the videos?
+  - 回答2：He's dancing with his brother Tristan in some of the videos.
+  - 问题3：What does the person attribute their addiction to?
+  - 回答3：He attributes his addiction to anime girls, possibly due to his time in prison.
+  - 问题4：What does the person believe about real world women?
+  - 回答4：The person believes that all real world women are evil, contrasting them with
+    anime women.
+  - 问题5：What does the person say when women try to tell him what to do?
+  - 回答5：He says "I'm too black for this" when women try to tell him what to do.
   questions: '-   男子为什么认为现实世界的女性都是邪恶的，而动漫女性是好的？
 
     -   男子在监狱里看什么动漫女孩的照片？
@@ -87,6 +110,7 @@
     -   这位男子的Twitter页面可以在片段中提到的网址上找到。
 
     -   观察者计划发布更多的“有趣观察”类型的视频。'
+  qas: []
   questions: '-   这位男子在监狱里遭受了哪些不幸遭遇？
 
     -   这位男子大脑受损的具体表现是什么？
