@@ -7,6 +7,17 @@
     -   仙女在被Myron破防后表现出胡搅蛮缠的行为，可能是因为受到了攻击和挑衅而情绪失控，最终导致她被驱逐离场。
 
     -   仙女的胡搅蛮缠行为可能反映了她对年龄和生育能力的担忧，导致她情绪失控并做出激烈的反应。'
+  qas:
+  - 问题1：文中提到女性在生理上的一个重要限制是什么？
+  - 回答1：大部分女性的卵子在35岁时已经大部分消失，这意味着高龄怀孕存在较高风险。
+  - 问题2：男性如何比较女性的衰老？
+  - 回答2：男性通常衰老得像红酒，而女性则通常衰老得像牛奶。
+  - 问题3：为什么文中认为女性在生理上在年龄增长后不再具备竞争力？
+  - 回答3：即使女性保持健身和自我照顾，也无法与年轻时的自己竞争，尤其在生育能力方面。
+  - 问题4：文中提到一个例子，描述了什么情况？
+  - 回答4：描述了一对相爱的35岁女性和42岁男性，因为女性无法生育而分手的情况。
+  - 问题5：男性认为对他们而言最重要的是什么？
+  - 回答5：男性认为最重要的是能够有孩子和建立家庭。
   questions: '-   男性和女性在35岁时的生理状况不同，女性生育能力下降，高龄怀孕风险增加。
 
     -   男性随年龄增长而更有魅力，而女性则相反，难以与年轻自己竞争。
@@ -46,6 +57,20 @@
     like they really loved each other。and that''s the biggest honor that you can bestow
     upon a man is children and a family。'
 - answers: ''
+  qas:
+  - 问题1：Why does the speaker think women in their 30s have decreased chances?
+  - 回答1：The speaker mentioned women's biological time clock.
+  - 问题2：How does the speaker respond to the accusation of favoring men over women?
+  - 回答2：The speaker denies it and questions how such a conclusion was reached.
+  - 问题3：What does the speaker assert about biological differences between men and
+    women?
+  - 回答3：The speaker states that women have a different biological time clock compared
+    to men.
+  - 问题4：How does the conversation reflect on emotions versus logic?
+  - 回答4：The speaker suggests the other person is interpreting emotionally rather than
+    logically.
+  - 问题5：Who claims ownership of the show?
+  - 回答5：The speaker claims it's their show and tells the other person to leave.
   questions: '-   为什么30多岁的女性有时候无法像男性那样做事情？这种情况为何会发生？
 
     -   对于那些有能力的女性来说，为什么机会会变少？这是否意味着存在某种形式的性别歧视？
@@ -84,6 +109,19 @@
     -   他认为直播中的不尊重对他有负面影响，会影响他的心情和直播的进行，也会影响他的观众和整体氛围。
 
     -   他打算采取措施来处理直播中遭到的不尊重，可能会采取一些行动来制止不尊重的行为，并可能会调整节目运营的策略以避免类似情况再次发生。'
+  qas:
+  - 问题1：What is the speaker's initial reaction to the situation?
+  - 回答1：The speaker expresses frustration and a sense of disrespect towards the platform.
+  - 问题2：How does the speaker feel about Frank Castle?
+  - 回答2：The speaker addresses Frank Castle with a tone of exasperation or disbelief.
+  - 问题3：What is the speaker's attitude towards someone referred to as "she"?
+  - 回答3：The speaker describes "she" as being triggered and upset.
+  - 问题4：How does the speaker feel about the ongoing situation?
+  - 回答4：The speaker is tired and annoyed, describing the situation as lasting too
+    long.
+  - 问题5：What physical needs does the speaker express towards the end?
+  - 回答5：The speaker mentions being hungry, thirsty, and tired, and expresses a desire
+    for a drink.
   questions: '-   为什么这个人对直播中的不尊重感到愤怒？
 
     -   他为什么提到Frank Castle并表达愤怒和不满？
